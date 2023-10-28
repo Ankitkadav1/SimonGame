@@ -16,7 +16,7 @@ Simon Game is a classic memory game where players have to follow a sequence of c
 
 ## Demo
 
-You can play the game online at .
+You can play the game online at  https://ankitkadav1.github.io/SimonGame/ .
 
 ## How to Play
 
